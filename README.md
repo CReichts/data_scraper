@@ -35,7 +35,10 @@ work_7890
 ```
 
 ## References
-TODO 
+This work resulted from a work cooperation with [Christina Schuster](https://ucris.univie.ac.at/portal/en/persons/christina-schuster(e7b3d645-e52e-434f-ae9c-7575e5036c02).html) (Uni:docs fellow and PraeDoc at the English Department at the University of Vienna, Austria).
+Christina Schuster uses these scripts for her PhD project (ongoing) and examines representations of gender, sex/uality and identities in fanfiction.
+
+Further information on her project as well as a link to her thesis will be provided at a later date.
 
 
 
