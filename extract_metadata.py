@@ -10,6 +10,8 @@ language, words, chapters, comments, kudos, bookmarks, hits, required_tags.
 The extracted metadata are stored in csv format in the directory of execution (filename: documents_{search_query}.csv).
 
 Example usage: python extract_metadata.py "Harry Potter"
+
+Author: Magdalena Radinger
 """
 
 import math

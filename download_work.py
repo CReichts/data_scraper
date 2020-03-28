@@ -10,6 +10,8 @@ The files are downloaded to the output_directory, existing files with the same n
 does not exist, it will be created automatically.
 
 Example usage: python download_work.py input.csv ./path/to/output
+
+Author: Magdalena Radinger
 """
 
 import numpy as np
